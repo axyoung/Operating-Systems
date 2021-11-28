@@ -1,0 +1,6 @@
+hello world
+++hello+++^world
+xd 123
+12345678
+STOP
+no way
